@@ -42,6 +42,9 @@
     <!-- Pygame Programming -->
     <a href="https://wiki.python.org/moin/PyGame" target="_blank"> 
     <img src="https://static.javatpoint.com/tutorial/pygame/images/python-pygame-tutorial.png" alt="pygame" width="40" height="40" /> </a>    
+    <!-- Java programming -->
+    <a href="https://www.oracle.com/in/java/" target="_blank"> 
+    <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" width="40" height="40" /> </a>   
 </p>
 
 [![shaurya pratap github stats](https://github-readme-stats.vercel.app/api?username=Himesh-29&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

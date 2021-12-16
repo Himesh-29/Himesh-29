@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himesh Maniyar</h1>
 <h3 align="center">A passionate software developer from MNIT JAIPUR, India</h3>
 <h3>A full-stack web developer using React and Django, Flutter app developer and exploring my interests in Machine Learning</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=himesh-29&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/Himesh-29/](https://github.com/Himesh-29/)
@@ -59,5 +60,11 @@
                                                                                                               
  </p>
 
-[![himesh maniyar github stats](https://github-readme-stats.vercel.app/api?username=Himesh-29&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-29&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align='center'><i>My Stats</i></h2>
+<div align='center'>
+    <img width=48.5% src="https://github-readme-stats.vercel.app/api?username=himesh-29&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+    <img width=48.5% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=himesh-29&theme=react&border=61DAFB&fire=DDB80F"/>
+</div>
+<div align='center'>
+    <img width=48.5% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himesh-29&langs_count=10&theme=react&layout=compact" />
+</div>

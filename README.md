@@ -49,6 +49,13 @@
     <!-- Django -->
     <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://twilio-cms-prod.s3.amazonaws.com/original_images/django-dark.png" alt="django" width="60" height="40" /> </a>
+    <!-- Bootstrap -->
+    <a href="https://getbootstrap.com/" target="_blank"> 
+    <img src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" alt="bootstrap" width="40" height="40" /> </a>
+    <!-- Flutter -->
+    <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" alt="flutter" width="60" height="40" /> </a>
+                                                                                                                              
                                                                                                               
  </p>
 

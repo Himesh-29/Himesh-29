@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himesh Maniyar</h1>
 <h3 align="center">A passionate software developer from MNIT JAIPUR, India</h3>
-<h3>A full-stack web developer using React and Django, Flutter app developer and exploring my interests in Machine Learning</h3>
+<h3>A full-stack web developer using MERN stack, Flutter app developer and exploring my interests in Machine Learning</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himesh-29&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 👨‍💻 All of my projects are available at

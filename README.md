@@ -62,7 +62,9 @@
  </p>
 
 <h2 align='center'><i>My Achievements</i></h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Himesh-29)](https://github.com/Himesh-29/github-profile-trophy)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Himesh-29&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
                                                                                                                     
 <h2 align='center'><i>My Stats</i></h2>
 <div align='center'>

@@ -59,10 +59,11 @@
     <!-- Flutter -->
     <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" alt="flutter" width="60" height="40" /> </a>
-                                                                                                                              
-                                                                                                              
  </p>
 
+<h2 align='center'><i>My Achievements</i></h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Himesh-29)](https://github.com/Himesh-29/github-profile-trophy)
+                                                                                                                    
 <h2 align='center'><i>My Stats</i></h2>
 <div align='center'>
     <img width=48.5% src="https://github-readme-stats.vercel.app/api?username=himesh-29&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>

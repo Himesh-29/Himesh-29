@@ -6,7 +6,8 @@
 - 👨‍💻 All of my projects are available at
 [https://github.com/Himesh-29/](https://github.com/Himesh-29/)
 
-- 📫 My Personal Portfolio Website: <a href="https://www.himeshhub.com" target="_blank">Himesh Hub</a>
+- 🧠 I sharpen my logic on LeetCode:  
+[https://leetcode.com/himesh_29/](https://leetcode.com/himesh_29/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

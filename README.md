@@ -3,11 +3,9 @@
 <h3>A full-stack web developer using MERN stack, Flutter app developer and exploring my interests in Machine Learning</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himesh-29&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/Himesh-29/](https://github.com/Himesh-29/)
+- 👨‍💻 All of my projects are available at [https://github.com/Himesh-29/](https://github.com/Himesh-29/)
 
-- 🧠 I sharpen my logic on LeetCode:  
-[https://leetcode.com/himesh_29/](https://leetcode.com/himesh_29/)
+- 🧠 I sharpen my logic on LeetCode:  [https://leetcode.com/himesh_29/](https://leetcode.com/himesh_29/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

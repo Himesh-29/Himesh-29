@@ -9,15 +9,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.himeshhub.com" target="_blank"><img align="center" 
-            src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-8.png" alt="my-website" height="30" 
-            width="40"/></a>
     <a href="https://www.facebook.com/himesh.maniar target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
             width="40" /></a>
     <a href="https://www.linkedin.com/in/himesh-maniyar-0955151bb/" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="40" /></a>
+    <a href="https://leetcode.com/himesh_29/" target="_blank">
+    <img align="center" 
+         src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" 
+         alt="leetcode" height="30" width="40"/>
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
